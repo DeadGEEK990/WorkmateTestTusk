@@ -1,0 +1,69 @@
+# ОС
+#####################
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# Логи
+#####################
+
+*.log
+*.log.*
+
+# Скомпилированные файлы
+#####################
+
+# Node.js
+node_modules/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Java
+*.class
+
+# Ruby
+*.gem
+*.rbc
+.bundle/
+.config/
+
+# IDE и редакторы
+#####################
+
+# VS Code
+.vscode/
+
+# IntelliJ IDEA
+.idea/
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# Sublime Text
+*.sublime-workspace
+*.sublime-project
+
+# Прочее
+#####################
+
+# Тесты
+coverage/
+test-results/
+
+# Директории сборки
+build/
+dist/
+out/
+
+# Конфигурации
+*.env
+.env.*
+.venv

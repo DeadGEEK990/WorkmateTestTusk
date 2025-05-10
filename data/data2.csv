@@ -1,0 +1,4 @@
+department,id,email,name,hours_worked,rate
+HR,101,grace@example.com,Grace Lee,160,45
+Marketing,102,henry@example.com,Henry Martin,150,35
+HR,103,ivy@example.com,Ivy Clark,158,38
